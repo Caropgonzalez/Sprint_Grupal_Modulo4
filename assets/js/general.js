@@ -34,7 +34,6 @@ borrarTodo.addEventListener("click", ()=>{
 
 
 
-//const apikey = 'bb69546d'
 const url = 'https://pokeapi.co/'
 
 function fetchPokemon(id) {
